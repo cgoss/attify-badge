@@ -1,6 +1,9 @@
+This project is not being maintained anymore. The new tool is located here.
+
+# NEW URL : https://github.com/attify/attify-badge-tool
+
 # attify-badge
 Attify Badge GUI tool to interact over UART, SPI, JTAG, GPIO etc.
-
 
 ### Modules
 - UART
